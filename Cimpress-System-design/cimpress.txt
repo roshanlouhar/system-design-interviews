@@ -1,0 +1,29 @@
+class product{
+	name, quantity, price
+}
+
+class shopingcart{
+	hashtable<object, sequence> listitem;
+	dateAdded
+	Gettotal(){
+		list<coupon>
+		list<product seqence>
+		for(coupon){
+			if(procuct.seq === coupon.seq){
+				//calculation.
+			}
+			if(coupon.seq == (0 ,null)){
+				//calculation.
+			}			
+		}
+	}
+}
+
+enum coupontype
+{
+	flatoff , percentageoff
+}
+class coupon
+{
+	id, type , amount, seq
+}
