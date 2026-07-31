@@ -1,0 +1,32 @@
+-- GO through all the basic vocabulary of the AI
+
+
+-- hallucinations in ai and give the some real example?
+-- Why hallucination happens and how we can avoid it ?
+-- what is the Context in AI tools
+-- context engineering vs prompt engineering
+-- How to set up a RAG pipeline
+-- Managing a context window efficiently
+-- Using Contextual AI enterprise platforms
+-- diff between Langchain vs langraph
+-- About the MAF and agent based solution and workflow based solutions
+-- state management in LLM 
+-- Token management in AI
+-- GITHUB copilot stuio vs azure ml foundary
+-- agent creations
+-- Ai powered vs ai native vs ai driven
+
+
+-- what is diff between agent and agentic solutions and RAG and LLM based solution
+-- AI powered and AI natives solutions
+-- diff between Artificial General Intelligence (AGI vs Artificial Superintelligence (ASI)
+
+
+https://www.evidentlyai.com/blog/ai-hallucinations-examples
+https://www.devopstraininginstitute.com/blog/80-github-copilot-interview-questions-and-answers
+https://docs.github.com/en/copilot/get-started/features
+
+
+-- other questions 
+-- if page is not loading in react application how will you do the troubleshooting
+-- dump vs performance counters
