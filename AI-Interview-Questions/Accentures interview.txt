@@ -12,15 +12,17 @@
 -- About the MAF and agent based solution and workflow based solutions
 -- state management in LLM 
 -- Token management in AI
--- GITHUB copilot stuio vs azure ml foundary
+-- GITHUB copilot studio vs azure ml foundry
 -- agent creations
 -- Ai powered vs ai native vs ai driven
-
+-- prompt engineering and prompt injection
+-- How to write effective propmpt and what thing we need to take care when writing prompt
+-- DevOps pipeline and PR reviews, code standard and quality gates
+-- About the current projects and day-day to routines
 
 -- what is diff between agent and agentic solutions and RAG and LLM based solution
 -- AI powered and AI natives solutions
 -- diff between Artificial General Intelligence (AGI vs Artificial Superintelligence (ASI)
-
 
 https://www.evidentlyai.com/blog/ai-hallucinations-examples
 https://www.devopstraininginstitute.com/blog/80-github-copilot-interview-questions-and-answers
