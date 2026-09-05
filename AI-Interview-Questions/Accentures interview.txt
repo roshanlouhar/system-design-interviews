@@ -19,6 +19,12 @@
 -- How to write effective propmpt and what thing we need to take care when writing prompt
 -- DevOps pipeline and PR reviews, code standard and quality gates
 -- About the current projects and day-day to routines
+-- How do chunking in the AP application works
+-- Way of doing the chunking / types / chunking approach
+-- VEctor database / azure AI search
+-- RAG pipeline workflow/ connectors/ chunking / vector databse / query processing/ prompt augenmeton/ 
+-- MAF framweowrk types of handling the agent and worklow
+-- 
 
 -- what is diff between agent and agentic solutions and RAG and LLM based solution
 -- AI powered and AI natives solutions
